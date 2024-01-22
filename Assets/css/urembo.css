@@ -1,0 +1,22 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: 15px;
+}
+td, th{
+    border: 5px solid green;
+    padding: 10px;
+}
+th{
+    color: #731b17;
+    font-family: "DejaVu Sans";
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    color: #f8b407;
+    font-family: "DejaVu Serif";
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}

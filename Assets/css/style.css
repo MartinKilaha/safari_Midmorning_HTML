@@ -1,0 +1,37 @@
+.fruits{
+    border: 3px solid orange;
+    text-align: center;
+    font-family: Inconsolata;
+    background-color: brown;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+}
+.cars{
+    border: 5px dot-dot-dash black;
+    text-align: start;
+    font-family: Rasa;
+    background-color: #f8b407;
+    margin: 30px;
+    padding: 5px;
+    font-size: 25px;
+}
+.FRUITS{
+    border: 1px double green;
+    text-align: end;
+    font-family: Gidugu;
+    background-color: blueviolet;
+    margin: 25px;
+    padding: 10;
+    font-size: 12px;
+    background-image: url("Assets/Images/Mangoes.jpeg");
+    }
+#computers{
+    border: 10px solid teal;
+    text-align: center;
+    font-family: Ani;
+    background-color: darkblue;
+    margin: 20px;
+    padding: 5px;
+    font-size: 12px;
+}
